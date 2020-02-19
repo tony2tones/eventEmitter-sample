@@ -31,3 +31,8 @@ wait for installation to be complete, after that enter
 `ng serve`
 
 Take a look at the code my article and/or video to get a better understanding on whats going on.
+
+
+https://youtu.be/I317BhehZKM?t=45
+
+blog post coming soon.
